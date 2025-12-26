@@ -1,0 +1,7 @@
+{
+  "name": "フォームチェッカー",
+  "description": "AIコーチがランニングフォームを分析し、改善点と練習メニューを提案するWebアプリ",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
